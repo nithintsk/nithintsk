@@ -8,7 +8,7 @@
 ### Connect with me:
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-nithintsk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nithintsk/)<br />
 [![blog badge](https://img.shields.io/badge/Website-nithintsk.github.io-green?style=flat-square&logo=google-chrome&logoColor=green)](https://nithintsk.github.io)<br />
-[![gmail badge](https://img.shields.io/badge/Email-nithintsk%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nithintsk@gmail.com)<br />
+[![gmail badge](https://img.shields.io/badge/Email-nithin.tsk%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nithin.tsk@gmail.com)<br />
 
 
 ### Languages and Tools:
