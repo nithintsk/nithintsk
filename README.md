@@ -1,16 +1,15 @@
 ## Hi there, I'm Nithin 👋
 
-### I'm a Master's student in Computer Science looking for full-time opportunities as a software developer!
-- I’m currently working as a Graduate Research Associate in NOWLAB at The Ohio State University.
-- I have 2 years of work experience at Nutanix. 
-- I'm good at coding and I'm knowledgeable about infrastructure too. 
-- I love that there's ALWAYS something new to learn.
+### I'm a MS CS student looking for full-time opportunities as a software developer!
+- I currently work as a Graduate Research Associate at NOWLAB, The Ohio State University.
+- What I'm good at? --> Coding, Infrastructure, Communication.
+- I love that in this field, there's ALWAYS something new to learn.
 
 ### Connect with me:
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-nithintsk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nithintsk/)<br />
 [![blog badge](https://img.shields.io/badge/Website-nithintsk.github.io-green?style=flat-square&logo=google-chrome&logoColor=green)](https://nithintsk.github.io)<br />
+[![gmail badge](https://img.shields.io/badge/Email-nithintsk%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nithintsk@gmail.com)<br />
 
-<br />
 
 ### Languages and Tools:
 
