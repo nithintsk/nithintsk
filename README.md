@@ -3,7 +3,7 @@
 ### I'm a MS CS student looking for full-time opportunities as a software developer!
 - I currently work as a Graduate Research Associate at NOWLAB, The Ohio State University.
 - My positives --> Coding, Infrastructure, Communication.
-- My motto --> Explore. Learn. Do. Travel.
+- My motto --> Explore. Learn. Do. Play.
 
 ### Connect with me:
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-nithintsk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nithintsk/)<br />
