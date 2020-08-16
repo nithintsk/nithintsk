@@ -1,6 +1,6 @@
-## Hi there, I'm Nithin 👋
+## Hi, I'm Nithin
 
-### I'm a MS CS student looking for full-time opportunities as a software developer!
+### I am a MS CS student looking for full-time opportunities as a software developer!
 - I currently work as a Graduate Research Associate at NOWLAB, The Ohio State University.
 - My positives --> Coding, Infrastructure, Communication.
 - My motto --> Explore. Learn. Do. Play.
