@@ -1,9 +1,6 @@
 ## Hi, I'm Nithin
 
-### I am a MS CS student looking for full-time opportunities as a software developer!
-- I currently work as a Graduate Research Associate at NOWLAB, The Ohio State University.
-- My positives --> Coding, Infrastructure, Communication.
-- My motto --> Explore. Learn. Do. Play.
+- I am an SDE 2 in the Citrix Enpoint Management team, working on the Android platform. I previously worked as a Graduate Research Associate at the Network Based Computing Lab, The Ohio State University.
 
 ### Connect with me:
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-nithintsk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nithintsk/)<br />
