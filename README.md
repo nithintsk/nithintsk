@@ -1,6 +1,6 @@
 ## Hi, I'm Nithin
 
-- I am an SDE 2 in the Citrix Enpoint Management team, working on the Android platform. I previously worked as a Graduate Research Associate at the Network Based Computing Lab, The Ohio State University.
+I am an SDE 2 in the Citrix Enpoint Management team, working on the Android platform. I previously worked as a Graduate Research Associate at the Network Based Computing Lab, The Ohio State University.
 
 ### Connect with me:
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-nithintsk-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nithintsk/)<br />
